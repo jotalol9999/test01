@@ -1,0 +1,9 @@
+Para ejecutar el archivo
+
+1- Click derecho en el archivo
+2- abrir con block de notas
+3- Copiar todo el contenido del archivo
+4- ir a https://www.programiz.com/python-programming/online-compiler/       o a cualquier otra pagina que diga "Python compiler" o algo parecido
+5- pegar el contenido en la pagina
+6- Para cambiar los valores de la apuesta inicial, los cuales a inicio seran 1 , se debe modificar el valor de la linea 5 
+7- Correr el codigo
